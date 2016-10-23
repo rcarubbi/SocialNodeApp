@@ -1,0 +1,275 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"input",
+				"input	input - submit"
+			],
+			[
+				"form",
+				"FORM	Tag"
+			],
+			[
+				"label",
+				"label	<label>"
+			],
+			[
+				"crypto",
+				"crypto.createHash(hash);"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/JSLint/JSLint.sublime-build",
+	"command_palette":
+	{
+		"height": 150.0,
+		"selected_items":
+		[
+			[
+				"google",
+				"SmartGoogle: Search from input"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"jslint",
+				"JSLint"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax: jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"node",
+				"Nodejs::Build Completions"
+			],
+			[
+				"nodejs",
+				"Nodejs::Debug::Run::Current File + Arguments"
+			],
+			[
+				"open files",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"set syntax: javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Carubbi/Documents/Google Drive/socialNodeApp/public/js/views/profile.js",
+		"/C/Users/Carubbi/Documents/Google Drive/socialNodeApp/public/templates/profile.html",
+		"/C/Users/Carubbi/Documents/Google Drive/socialNodeApp/models/Account.js",
+		"/C/Users/Carubbi/Documents/Google Drive/socialNodeApp/app.js",
+		"/C/Users/Carubbi/Documents/Google Drive/socialNodeApp/public/templates/addcontact.html",
+		"/C/Users/Carubbi/Documents/Google Drive/socialNodeApp/public/js/views/addcontact.js",
+		"/C/Users/Carubbi/Documents/Google Drive/socialNodeApp/public/templates/contact.html",
+		"/C/Users/Carubbi/Documents/Google Drive/socialNodeApp/public/js/models/ContactCollection.js",
+		"/C/Users/Carubbi/Documents/Google Drive/socialNodeApp/public/js/models/Contact.js",
+		"/C/Users/Carubbi/Documents/Google Drive/socialNodeApp/public/templates/contacts.html",
+		"/C/Users/Carubbi/Documents/Google Drive/socialNodeApp/public/js/views/contact.js",
+		"/C/Users/Carubbi/Documents/Google Drive/socialNodeApp/public/js/views/contacts.js",
+		"/C/Users/Carubbi/Documents/Google Drive/socialNodeApp/public/js/views/addContact.js",
+		"/C/Users/Carubbi/Documents/Google Drive/socialNodeApp/public/js/models/ContactCollection",
+		"/C/Users/Carubbi/Documents/Google Drive/socialNodeApp/public/js/views/status.js",
+		"/C/Users/Carubbi/Documents/Google Drive/socialNodeApp/public/js/views/index.js",
+		"/C/Users/Carubbi/Documents/Google Drive/socialNodeApp/public/templates/index.html",
+		"/C/Users/Carubbi/Documents/Google Drive/socialNodeApp/public/js/models/Status.js",
+		"/C/Users/Carubbi/Documents/Google Drive/socialNodeApp/public/js/models/StatusCollection.js",
+		"/C/Users/Carubbi/Documents/Google Drive/socialNodeApp/public/js/models/Account.js",
+		"/C/Users/Carubbi/Documents/Google Drive/socialNodeApp/public/js/router.js",
+		"/C/Users/Carubbi/Documents/Google Drive/socialNodeApp/views/resetPassword.jade",
+		"/C/Users/Carubbi/Documents/Google Drive/socialNodeApp/views/index.jade",
+		"/C/Users/Carubbi/Documents/Google Drive/socialNodeApp/views/layout.jade",
+		"/C/Users/Carubbi/Documents/Google Drive/socialNodeApp/views/resetPasswordSuccess.jade",
+		"/C/Users/Carubbi/Documents/Google Drive/Node Examples/stooges.js",
+		"/C/Users/Carubbi/Documents/Google Drive/socialNodeApp/public/js/views/forgotpassword.js",
+		"/C/Users/Carubbi/Documents/Google Drive/socialNodeApp/config/mail.js",
+		"/C/Users/Carubbi/Documents/Google Drive/socialNodeApp/public/js/views/login.js",
+		"/C/Users/Carubbi/Documents/Google Drive/socialNodeApp/public/templates/forgotpassword.html",
+		"/C/Users/Carubbi/Documents/Google Drive/socialNodeApp/public/js/SocialNetView.js",
+		"/C/Users/Carubbi/Documents/Google Drive/socialNodeApp/public/templates/status.html",
+		"/C/Users/Carubbi/Documents/Google Drive/socialNodeApp/public/js/views/register.js",
+		"/C/Users/Carubbi/Documents/Google Drive/socialNodeApp/public/templates/register.html",
+		"/C/Users/Carubbi/Documents/Google Drive/socialNodeApp/package.json",
+		"/C/Users/Carubbi/Documents/Google Drive/socialNodeApp/public/templates/login.html",
+		"/C/Users/Carubbi/Documents/Google Drive/socialNodeApp/public/js/libs/underscore.js",
+		"/C/Users/Carubbi/Documents/Google Drive/socialNodeApp/public/js/SocialNet.js",
+		"/C/Users/Carubbi/Documents/Google Drive/socialNodeApp/models/account.js",
+		"/C/Sublime Text 2.0.2 x64/Data/Packages/SideBarGit/SideBarGit.sublime-settings",
+		"/C/Sublime Text 2.0.2 x64/Data/Packages/User/SideBarGit.sublime-settings",
+		"/C/Users/Carubbi/Documents/Google Drive/socialNodeApp/socialNodeApp.sublime-project",
+		"/C/Users/Carubbi/Documents/NodeApps/events.js",
+		"/C/Users/Carubbi/Documents/NodeApps/views/layout.jade",
+		"/C/Users/Carubbi/Documents/NodeApps/views/chat.jade",
+		"/C/Users/Carubbi/Documents/NodeApps/chat.js",
+		"/C/Users/Carubbi/Documents/NodeApps/templatedStooges.js",
+		"/C/Users/Carubbi/Documents/NodeApps/views/stooges.jade",
+		"/C/Users/Carubbi/Documents/NodeApps/Sublime Text 2.0.2 x64/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Carubbi/Documents/NodeApps/Sublime Text 2.0.2 x64/Data/Packages/JSLint/JSLint.sublime-build",
+		"/C/Users/Carubbi/Documents/NodeApps/Sublime Text 2.0.2 x64/Data/Packages/User/JSLint.sublime-settings",
+		"/C/Users/Carubbi/Documents/NodeApps/Sublime Text 2.0.2 x64/Data/Packages/JSLint/JSLint.sublime-settings",
+		"/C/Users/Carubbi/Documents/NodeApps/stooges.js",
+		"/C/Users/Carubbi/Documents/NodeApps/views/index.jade",
+		"/C/Users/Carubbi/Documents/NodeApps/node_modules/express/lib/router/route.js",
+		"/C/Users/Carubbi/Documents/NodeApps/node_modules/express/lib/router/index.js",
+		"/C/Users/Carubbi/Documents/NodeApps/node_modules/express/lib/utils.js",
+		"/C/Users/Carubbi/Documents/NodeApps/node_modules/express/lib/request.js",
+		"/C/Users/Carubbi/Documents/NodeApps/node_modules/express/lib/response.js",
+		"/C/Users/Carubbi/Documents/NodeApps/node_modules/express/lib/view.js",
+		"/C/Users/Carubbi/Documents/NodeApps/node_modules/express/lib/middleware.js",
+		"/C/Users/Carubbi/Documents/NodeApps/node_modules/express/lib/express.js",
+		"/C/Users/Carubbi/Documents/NodeApps/node_modules/express/lib/application.js",
+		"/C/Users/Carubbi/Documents/NodeApps/node_modules/express/test.js",
+		"/C/Users/Carubbi/Documents/NodeApps/node_modules/express/index.js",
+		"/C/Users/Carubbi/Documents/NodeApps/app.js",
+		"/C/Users/Carubbi/Documents/NodeApps/node_modules/events/events.js",
+		"/C/Users/Carubbi/Documents/NodeApps/stoogles.js",
+		"/C/Users/Carubbi/Documents/NodeApps/Sublime Text 2.0.2 x64/Data/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"parma",
+			"__dirname"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 90.0
+	},
+	"output.git":
+	{
+		"height": 174.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/Carubbi/Documents/NodeApps/templatedStooges.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 299.0,
+	"status_bar_visible": true
+}
